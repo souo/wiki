@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>Dev Wiki Blog</title>
-        <link>http://souo.gitee.io/wiki/blog</link>
+        <link>http://souo.github.io/wiki/blog</link>
         <description>Dev Wiki Blog</description>
         <lastBuildDate>Mon, 15 Aug 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,7 +10,7 @@
         <language>en</language>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>http://souo.gitee.io/wiki/blog/welcome</link>
+            <link>http://souo.github.io/wiki/blog/welcome</link>
             <guid>welcome</guid>
             <pubDate>Mon, 15 Aug 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[This is my first post .]]></description>
