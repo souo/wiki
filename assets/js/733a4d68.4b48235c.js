@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdev_wiki=self.webpackChunkdev_wiki||[]).push([[6804],{4e3:e=>{e.exports=JSON.parse('{"permalink":"/wiki/blog/tags/example","page":1,"postsPerPage":6,"totalPages":1,"totalCount":1,"blogDescription":"Tutorials and articles about Eightshift development kit","blogTitle":"Tutorials and articles about Eightshift development kit"}')}}]);
